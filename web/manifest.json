@@ -1,0 +1,10 @@
+{
+  "name": "MAXKO F&B",
+  "short_name": "MAXKO",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fbf9f6",
+  "theme_color": "#ab2f00",
+  "description": "MAXKO F&B multi-brand food ordering app",
+  "orientation": "portrait"
+}
